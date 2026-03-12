@@ -24,3 +24,4 @@
 | SabancıDx     | Çeşitli uygulamalar | ✅ Var | ✅ Var | ❌          |             |             |
 | Biryudumkitap/Fabula     | [Biryudumkitap](https://biryudumkitap.com)  | ✅ [Var](https://apps.apple.com/tr/app/biryudumkitap-oku-ve-dinle/id1476943033) | ✅ [Var](https://play.google.com/store/apps/details?id=com.biryudumkitap) | ❌          |             | Biryudumkitap is a mobile app providing nonfiction book summaries & short stories.| 
 | Togi Teknoloji    | [LiBat™ Connect](https://li-bat.com)     | ✅ [Var]() | ✅ Var | ✅ Var | | Remote Monitoring for Lithium Batteries |
+| Intimeinfo      | IntimeIK, IntimeTakip ve çeşitli uygulamalar | ✅ Var | ✅ Var   | ❌     | ❌          |             |
